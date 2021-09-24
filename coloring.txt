@@ -1,0 +1,7 @@
+@1/\.(ac|ed|go|lg).jp\//
+@1/\.(edu|gov|mil|int)\//
+@1/\.fed.us\//
+@1/\.gov.(uk|au)\//
+@1/\.govt.(nz|fr)\//
+@1/\.gc.ca\//
+@1/www.mayoclinic.org\//
