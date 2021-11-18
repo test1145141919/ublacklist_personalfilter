@@ -31,6 +31,7 @@
 /\.pro\//
 /\.site\//
 /\.tokyo\//
+/\.link\//
 *://log25.jp/*
 *://54.37.149.98/*
 *://majikichi.com/*
