@@ -24,7 +24,7 @@
 /\.wukihow\./
 /\.wikiqube\./
 /\.dbpedia\./
-*://detail.chiebukuro.yahoo.co.jp/*
+/\.chiebukuro.yahoo\./
 *://log25.jp/*
 *://54.37.149.98/*
 *://majikichi.com/*
