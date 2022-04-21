@@ -35,6 +35,7 @@
 /\.black\//
 /\.blog\//
 /\.blue\//
+/\.br\//
 /\.casa\//
 /\.click\//
 /\.club\//
@@ -42,7 +43,9 @@
 /\.film\//
 /\.gallery\//
 /\.guru\//
+/\.gr\//
 /\.gy\//
+/\.id\//
 /\.info\//
 /\.land\//
 /\.link\//
@@ -62,6 +65,7 @@
 /\.top\//
 /\.tv\//
 /\.video\//
+/\.vn\//
 /\.wiki\//
 /\.win\//
 /\.work\//
