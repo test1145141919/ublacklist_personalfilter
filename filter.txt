@@ -1,4 +1,5 @@
 /18comic\./
+/5chmap\./
 /couponsock\./
 /fb.com\//
 /instagram\./
@@ -53,7 +54,9 @@
 /\.online\//
 /\.pictures\//
 /\.place\//
+/\.porn\//
 /\.pro\//
+/\.pt\//
 /\.qa\//
 /\.ro\//
 /\.rocks\//
@@ -62,6 +65,7 @@
 /\.store\//
 /\.tokyo\//
 /\.top\//
+/\.tube\//
 /\.tv\//
 /\.video\//
 /\.vn\//
