@@ -27,6 +27,7 @@
 /\.unionpedia.org/
 /\.wwwhost.biz/
 /\.facebook\./
+/\.matomesoku\./
 /\.wikifr\./
 /\.wukihow\./
 /\.wikiqube\./
