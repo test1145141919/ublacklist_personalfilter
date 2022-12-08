@@ -15,6 +15,7 @@
 /uptodown\./
 /whotwi\./
 /wikiwand\./
+/\.5ch.net/
 /\.software.informer.com/
 /\.ichacha.net/
 /\.32-b.it/
