@@ -1,5 +1,6 @@
 /18comic\./
 /5chmap\./
+/blogspot\./
 /couponsock\./
 /fb.com\//
 /instagram\./
