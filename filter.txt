@@ -40,6 +40,7 @@
 /\.wukihow\./
 /\.wikiqube\./
 /\.weblio\./
+/\.be\//
 /\.black\//
 /\.blog\//
 /\.blue\//
@@ -51,6 +52,7 @@
 /\.cyou\//
 /\.dk\//
 /\.film\//
+/\.fm\//
 /\.gallery\//
 /\.guru\//
 /\.gr\//
@@ -63,7 +65,10 @@
 /\.mobi\//
 /\.mx\//
 /\.news\//
+/\.np\//
 /\.online\//
+/\.ph\//
+/\.pics\//
 /\.pictures\//
 /\.place\//
 /\.porn\//
@@ -72,6 +77,7 @@
 /\.qa\//
 /\.ro\//
 /\.rocks\//
+/\.sexy\//
 /\.site\//
 /\.space\//
 /\.store\//
