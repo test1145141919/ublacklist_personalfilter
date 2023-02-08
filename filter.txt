@@ -22,6 +22,7 @@
 /\.5ch.net/
 /\.blog.jp/
 /\.doorblog.jp/
+/\.exblog.jp/
 /\.hatena.ne.jp/
 /\.ichacha.net/
 /\.identitacomune.it/
