@@ -23,6 +23,7 @@
 /\.32-b.it/
 /\.hatena.ne.jp/
 /\.identitacomune.it/
+/\.kthab.net\//
 /\.netkeiba\./
 /\.unasinoperamico.it/
 /\.wroclaw.pl/
