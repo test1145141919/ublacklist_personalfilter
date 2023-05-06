@@ -75,11 +75,13 @@
 /\.mobi\//
 /\.mx\//
 /\.news\//
+/\.nl\//
 /\.np\//
 /\.online\//
 /\.ph\//
 /\.pics\//
 /\.pictures\//
+/\.pl\//
 /\.place\//
 /\.porn\//
 /\.pro\//
