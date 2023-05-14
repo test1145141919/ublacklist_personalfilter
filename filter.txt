@@ -34,8 +34,6 @@
 /\.tnmia.net/
 /\.tweet247.net/
 /\.ufoooo.com/
-/\.unasinoperamico.it/
-/\.wroclaw.pl/
 /\.wwwhost.biz/
 /\.appcard\./
 /\.chiebukuro.yahoo\./
