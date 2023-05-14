@@ -91,6 +91,7 @@
 /\.ro\//
 /\.rocks\//
 /\.sexy\//
+/\.sk\//
 /\.site\//
 /\.space\//
 /\.store\//
