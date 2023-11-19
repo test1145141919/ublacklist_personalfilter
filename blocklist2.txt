@@ -44,7 +44,6 @@
 *://book9.instantbook.jp/*
 *://bookarium.jp/*
 *://bp-antenna.com/*
-*://br.atsit.in/*
 *://brainmindnews.com/*
 *://buhitter.com/*
 *://buppan-navi.com/*
