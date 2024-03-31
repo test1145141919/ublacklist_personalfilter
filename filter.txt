@@ -55,10 +55,12 @@
 /\.weblio\./
 /\.app\//
 /\.be\//
+/\.best\//
 /\.black\//
 /\.blog\//
 /\.blue\//
 /\.br\//
+/\.buzz\//
 /\.bz\//
 /\.ca\//
 /\.casa\//
@@ -83,6 +85,7 @@
 /\.info\//
 /\.it\//
 /\.land\//
+/\.lat\//
 /\.link\//
 /\.me\//
 /\.mobi\//
