@@ -5,5 +5,9 @@ x.com##a[href$="/communities"]
 x.com##a[href="/jobs"]
 x.com##a[href*="/i/monetization"]
 x.com##a[href*="ads.x.com"]
-x.com##a[href*="x.com/home"]
-
+x.com##[aria-label="ホームタイムライン"] > div:first-child > div:first-child > div:first-child > nav > div > div:nth-child(2) > div > div:first-child
+x.com##a[href="/explore/tabs/for_you"]:upward(1)
+x.com##a[href="/explore/tabs/keyword"]:upward(1)
+x.com##a[href="/explore/tabs/news"]:upward(1)
+x.com##a[href="/explore/tabs/sports"]:upward(1)
+x.com##a[href="/explore/tabs/entertainment"]:upward(1)
