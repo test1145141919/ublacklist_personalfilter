@@ -5,3 +5,5 @@ x.com##a[href$="/communities"]
 x.com##a[href="/jobs"]
 x.com##a[href*="/i/monetization"]
 x.com##a[href*="ads.x.com"]
+x.com##a[href*="x.com/home"]
+
