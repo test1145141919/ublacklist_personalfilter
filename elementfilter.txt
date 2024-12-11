@@ -4,6 +4,7 @@ x.com##a[href="/i/verified-orgs-signup"]
 x.com##a[href$="/communities"]
 x.com##a[href="/jobs"]
 x.com##a[href*="/i/monetization"]
+x.com##a[href*="/i/account_analytics"]
 x.com##a[href*="ads.x.com"]
 x.com##[aria-label="ホームタイムライン"] > div:first-child > div:first-child > div:first-child > nav > div > div:nth-child(2) > div > div:first-child
 x.com##a[href="/explore/tabs/for_you"]:upward(1)
