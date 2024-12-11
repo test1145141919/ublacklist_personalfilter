@@ -1,1 +1,5 @@
-x.com##a[href="/i/grok"]
+x.com##a[href*="/i/grok"]
+x.com##a[href="/i/premium_sign_up"]
+x.com##a[href="/i/verified-orgs-signup"]
+x.com##a[href$="/communities"]
+x.com##a[href="/jobs"]
