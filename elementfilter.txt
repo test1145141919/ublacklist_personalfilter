@@ -9,6 +9,7 @@ x.com##a[href*="ads.x.com"]
 x.com##button[data-testid*="grok"]
 x.com##button[data-testid*="geoButton"]
 x.com##button[data-testid*="gifSearchButton"]
+x.com##span[class*="r-bcqeeo"]
 x.com##button[class*="r-1awozwy"]
 x.com##button[aria-label="プロフィールの要約"]
 x.com##[aria-label="ホームタイムライン"] > div:first-child > div:first-child > div:first-child > nav > div > div:nth-child(2) > div > div:first-child
