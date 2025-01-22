@@ -13,6 +13,9 @@ x.com##div[class="css-175oi2r r-qklmqi r-1kqtdi0 r-3pj75a r-tskmnb r-13qz1uu"]
 x.com##button[class*="r-1awozwy"]
 x.com##button[aria-label="プロフィールの要約"]
 x.com##[aria-label="ホームタイムライン"] > div:first-child > div:first-child > div:first-child > nav > div > div:nth-child(2) > div > div:first-child
+x.com##[aria-label="タイムライン: 話題を検索"] > div > div
+x.com##[data-testid="cellInnerDiv"]:has([data-testid="trend"]):style(display: initial !important)
+x.com##[aria-label="タイムライン: 話題を検索"] [data-testid="cellInnerDiv"]:has(h2 > div > span:has-text(トレンド)):style(display: initial !important)
 x.com##a[href="/explore/tabs/for_you"]:upward(1)
 x.com##a[href="/explore/tabs/keyword"]:upward(1)
 x.com##a[href="/explore/tabs/news"]:upward(1)
