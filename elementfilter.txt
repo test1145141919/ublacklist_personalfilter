@@ -22,3 +22,5 @@ x.com##a[href="/explore/tabs/keyword"]:upward(1)
 x.com##a[href="/explore/tabs/news"]:upward(1)
 x.com##a[href="/explore/tabs/sports"]:upward(1)
 x.com##a[href="/explore/tabs/entertainment"]:upward(1)
+x.com##.r-y42jk5.r-bnwqim.r-1jte41z.r-hvns9x.r-1rtiivn.r-6gpygo.r-173mn98.css-175oi2r
+booth.pm###js-recommended-shop-items
