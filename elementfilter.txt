@@ -33,3 +33,8 @@ x.com##.r-1wtj0ep.r-1cmwbt1.r-18u37iz.r-1awozwy.css-175oi2r > .r-1h0z5md.r-18u37
 x.com##.r-1ny4l3l.r-6416eg.r-o7ynqc.r-1loqt21.r-3pj75a.r-1qi8awa.r-2yi16.r-xyw6el.r-knv0ih.r-lrvibr.r-rs99b7.r-1phboty.r-sdzlij.css-175oi2r
 x.com##.r-1bro5k0.css-175oi2r
 x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(4)
+x.com##.r-nsbfu8.r-1xpp3t0.r-1q9bdsx.r-1eltapf.css-175oi2r
+x.com##.r-1ny4l3l.r-3pj75a.r-1mmae3n.r-1wtj0ep.css-175oi2r
+x.com##.r-1ye8kvj.r-13qz1uu.r-f8sm7e.css-175oi2r > section.css-175oi2r > .css-175oi2r div.css-175oi2r > .r-1ny4l3l.r-1adg3ll.css-175oi2r > .css-175oi2r > .r-1ny4l3l.r-6416eg.r-o7ynqc.r-1loqt21.r-3pj75a.r-1mmae3n.css-175oi2r
+x.com##div:nth-of-type(1) > .r-1ny4l3l.r-6416eg.r-o7ynqc.r-1loqt21.r-1qi8awa.r-2yi16.r-1wron08.r-6gpygo.r-lrvibr.r-rs99b7.r-1phboty.r-sdzlij.css-175oi2r
+
